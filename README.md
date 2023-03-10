@@ -16,6 +16,6 @@ Bu repoda YetGen Core Python eğitim programında öğrendiklerimi paylaşacağ�
 - Veri Türleri ve input() Fonksiyonuyla Input Alma
 
 # 3. Hafta Yapılan Çalışmalar
--Karşılaştırma ve Mantıksal Operatörler
--Karar Yapıları
--Döngüler
+- Karşılaştırma ve Mantıksal Operatörler
+- Karar Yapıları
+- Döngüler
