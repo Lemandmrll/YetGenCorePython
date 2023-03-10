@@ -15,3 +15,7 @@ Bu repoda YetGen Core Python eğitim programında öğrendiklerimi paylaşacağ�
 - Değişkenler, Tanımlama Kuralları ve type() Fonksiyonu
 - Veri Türleri ve input() Fonksiyonuyla Input Alma
 
+# 3. Hafta Yapılan Çalışmalar
+-Karşılaştırma ve Mantıksal Operatörler
+-Karar Yapıları
+-Döngüler
