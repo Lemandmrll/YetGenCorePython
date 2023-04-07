@@ -1,4 +1,4 @@
-# YetGenCorePython2,
+# YetGenCorePython2
 Bu repoda YetGen Core Python eğitim programında öğrendiklerimi paylaşacağım.
 
 <img src="https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png">
