@@ -21,19 +21,19 @@ Bu repoda YetGen Core Python eğitim programında öğrendiklerimi paylaşacağ�
 - Döngüler
 
 # 4. Hafta Yapılan Çalışmalar
--Listeler ve Liste Metodları
--Tuple (Demet) - Set (Küme) - Dictionary (Sözlük)
--String ve String Metodları
+- Listeler ve Liste Metodları
+- Tuple (Demet) - Set (Küme) - Dictionary (Sözlük)
+- String ve String Metodları
 
 # 5. Hafta Yapılan Çalışmalar
--List Comprehension
--Fonksiyonlar ve Argüman
--return, *args, **kwargs ve pass deyimi
--Global ve Yerel Değişkenler , Lambda Gösterimi
+- List Comprehension
+- Fonksiyonlar ve Argüman
+- return, *args, **kwargs ve pass deyimi
+- Global ve Yerel Değişkenler , Lambda Gösterimi
 
 # 6. Hafta Yapılan Çalışmalar
--Modüller ve Math Modülü
--Gömülü Fonksiyonlar
--Hata Yönetimi
+- Modüller ve Math Modülü
+- Gömülü Fonksiyonlar
+- Hata Yönetimi
 
 # 7. Hafta - Tekrar Haftası
