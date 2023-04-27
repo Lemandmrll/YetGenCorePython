@@ -1,0 +1,7 @@
+kullanici adi Leman Demirelli
+kullanicinin yas kilo boy bilgisi 21,70.0,170.0
+kullanicinin vucut kitle indeksi 0.0
+deger araligi zayif
+deger araligi zayif
+olusturma tarihi Thu Apr 27 15:28:04 2023
+********************
