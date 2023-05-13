@@ -37,3 +37,24 @@ Bu repoda YetGen Core Python eğitim programında öğrendiklerimi paylaşacağ�
 - Hata Yönetimi
 
 # 7. Hafta - Tekrar Haftası
+
+# 8. Hafta Yapılan Çalışmalar
+- Dosya İşlemleri 1
+- Dosya İşlemleri 2
+- Nesne Yönelimli Programlama 1
+
+# 9. Hafta Yapılan Çalışmalar
+- Nesne Yönelimli Programlama Method Kullanımı
+- Inheritance
+
+# 10. Hafta Yapılan Çalışmalar
+- Numpy Nedir ve Neden Numpy Kullanıyoruz?
+- Temel Numpy Özellikleri
+- Numpy Detayları
+
+# 11. Hafta Yapılan Çalışmalar
+- Pandas ve Pandas Serileri
+- Pandas Detayları
+- Pandas ve Matplotlib
+
+# 12. Hafta - Proje Haftası
